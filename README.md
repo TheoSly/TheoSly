@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
-<h3 align="center">🎓 Je suis actuellement en première année en BUT MMI à IUT d’Haguenau, né le 12 décembre 2004, habitant Strasbourg, passionné par le monde du numérique. J’ai au fil de mes années d’études ainsi que de mon temps personnel pu acquérir une bonne compétence sur des langages de programmation web, règles éditoriales, hébergement de site web. 💼 Je souhaite aujourd’hui évoluer me destinant au métier de Web Développer dans le futur. 👀 Je suis quelqu’un de motivé, dynamique, curieux, créatif, réactif et dotée d'un excellent sens de l'organisation. N’hésitez pas à me contacter si vous avez des questions : ✉️ theosly.pro@gmail.com</h3>
+<h3 align="center">🎓 Je suis actuellement en première année en BUT MMI à IUT d’Haguenau, né le 12 décembre 2004, habitant Strasbourg, passionné par le monde du numérique. J’ai au fil de mes années d’études ainsi que de mon temps personnel pu acquérir une bonne compétence sur des langages de programmation web, règles éditoriales, hébergement de site web. 
+  
+  💼 Je souhaite aujourd’hui évoluer me destinant au métier de Web Développer dans le futur. 
+
+  👀 Je suis quelqu’un de motivé, dynamique, curieux, créatif, réactif et dotée d'un excellent sens de l'organisation. N’hésitez pas à me contacter si vous avez des questions : 
+  
+  ✉️ theosly.pro@gmail.com</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
