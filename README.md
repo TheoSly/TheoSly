@@ -82,14 +82,6 @@ Toujours souriant, motivé et curieux, je combine créativité et rigueur pour r
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
 
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/DaVinci_Resolve_Logo.svg" alt="DaVinci Resolve" width="40" height="40"/>
-  </a>
-
-  <a href="https://elementor.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elementor/elementor-original.svg" alt="Elementor" width="40" height="40"/>
-  </a>
-
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -112,10 +104,6 @@ Toujours souriant, motivé et curieux, je combine créativité et rigueur pour r
 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.phpmyadmin.net/themes/pmahomme/img/logo_left.png" alt="phpMyAdmin" width="40" height="40"/>
   </a>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
