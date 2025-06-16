@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo</h1>
 
 <h3 align="center">
-🎓 Étudiant en première année de BUT MMI à l'IUT d’Haguenau,  
+🎓 Étudiant en troisième année de BUT MMI à l'IUT d’Haguenau,  
 20 ans, basé à Strasbourg, passionné par le web et les nouvelles technologies.  
 </h3>
 
@@ -25,7 +25,7 @@ Toujours souriant, motivé et curieux, je combine créativité et rigueur pour r
 
 ## Contactez-moi
 
-✉️ [contacttheo-saly.fr](mailto:contacttheo-saly.fr)  
+✉️ [contact@theo-saly.fr](mailto:contact@theo-saly.fr)  
 
 ---
 
