@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -124,11 +124,7 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
 
-<img src="https://raw.githubusercontent.com/theosly/theosly/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theosly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
