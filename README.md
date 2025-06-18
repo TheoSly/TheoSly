@@ -1,5 +1,6 @@
 <div align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+       style="width: 300px; height: 300px; object-fit: contain;" />
 </div>
 
 ###
